@@ -1,0 +1,81 @@
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: 30002016022600000000000002796de6
+end=-1,r
+$>ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 00201602260000000000000279
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000
+EPC Value : before:    MetaData Value: ok
+987600000121000000000000,e=
+EPC Value : ok:    MetaData Value: 
+987600000121000000000000

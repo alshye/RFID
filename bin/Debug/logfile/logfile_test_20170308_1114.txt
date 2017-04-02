@@ -1,0 +1,132 @@
+EPC Value : Check   MetaData Value: $>^ERROR
+$>$>^CONNECT 94659CD6C05D
+$>$>$>$>$>
+EPC Value : Check   MetaData Value: 123456789010000000000000,e=
+EPC Value : Check   MetaData Value: $>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>
+EPC Value : Check   MetaData Value: 3000201602260000000000000271ecee
+end=-1,r
+$>

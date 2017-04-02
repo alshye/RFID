@@ -1,0 +1,22 @@
+C:\Users\larryz\Desktop\246008 SDK\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GAO246008 Bluetooth.exe
+C:\Users\larryz\Desktop\246008 SDK\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\GAO246008 Bluetooth.pdb
+C:\Users\larryz\Desktop\246008 SDK\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\larryz\Desktop\246008 SDK\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GAO246008Bluetooth.Properties.Resources.resources
+C:\Users\larryz\Desktop\246008 SDK\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GAO246008 Bluetooth.csproj.GenerateResource.Cache
+C:\Users\larryz\Desktop\246008 SDK\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GAO246008 Bluetooth.exe
+C:\Users\larryz\Desktop\246008 SDK\WindowsFormsApplication1\WindowsFormsApplication1\obj\x86\Debug\GAO246008 Bluetooth.pdb
+C:\Users\larryz\Desktop\246008 SDK\GAO246008 Bluetooth C# Sample\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\larryz\Desktop\246008 SDK\GAO246008 Bluetooth C# Sample\obj\x86\Debug\GAO246008Bluetooth.Properties.Resources.resources
+C:\Users\larryz\Desktop\246008 SDK\GAO246008 Bluetooth C# Sample\obj\x86\Debug\GAO246008 Bluetooth.csproj.GenerateResource.Cache
+C:\Users\larryz\Desktop\246008 SDK\GAO246008 Bluetooth C# Sample\bin\Debug\GAO246008 Bluetooth.exe
+C:\Users\larryz\Desktop\246008 SDK\GAO246008 Bluetooth C# Sample\bin\Debug\GAO246008 Bluetooth.pdb
+C:\Users\larryz\Desktop\246008 SDK\GAO246008 Bluetooth C# Sample\obj\x86\Debug\GAO246008 Bluetooth.exe
+C:\Users\larryz\Desktop\246008 SDK\GAO246008 Bluetooth C# Sample\obj\x86\Debug\GAO246008 Bluetooth.pdb
+C:\Users\larryz\Desktop\246008 SDK\GAO246008 Bluetooth C# Sample\obj\x86\Debug\GAO246008 Bluetooth.csprojResolveAssemblyReference.cache
+C:\Users\Min Hye\Desktop\Senior\Research\GAO246008_Windows_Bluetooth_Samples\GAO246008 Bluetooth C# Sample\bin\Debug\GAO246008 Bluetooth.exe
+C:\Users\Min Hye\Desktop\Senior\Research\GAO246008_Windows_Bluetooth_Samples\GAO246008 Bluetooth C# Sample\bin\Debug\GAO246008 Bluetooth.pdb
+C:\Users\Min Hye\Desktop\Senior\Research\GAO246008_Windows_Bluetooth_Samples\GAO246008 Bluetooth C# Sample\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\Min Hye\Desktop\Senior\Research\GAO246008_Windows_Bluetooth_Samples\GAO246008 Bluetooth C# Sample\obj\x86\Debug\GAO246008Bluetooth.Properties.Resources.resources
+C:\Users\Min Hye\Desktop\Senior\Research\GAO246008_Windows_Bluetooth_Samples\GAO246008 Bluetooth C# Sample\obj\x86\Debug\GAO246008 Bluetooth.csproj.GenerateResource.Cache
+C:\Users\Min Hye\Desktop\Senior\Research\GAO246008_Windows_Bluetooth_Samples\GAO246008 Bluetooth C# Sample\obj\x86\Debug\GAO246008 Bluetooth.exe
+C:\Users\Min Hye\Desktop\Senior\Research\GAO246008_Windows_Bluetooth_Samples\GAO246008 Bluetooth C# Sample\obj\x86\Debug\GAO246008 Bluetooth.pdb

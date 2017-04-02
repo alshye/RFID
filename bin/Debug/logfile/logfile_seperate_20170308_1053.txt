@@ -1,0 +1,44 @@
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 
+987600000121000000000000
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 
+987600000121000000000000
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 00201602260000000000000279
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 00201602260000000000000279
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 
+987600000121000000000000
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 
+987600000121000000000000
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 
+987600000121000000000000
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 
+987600000121000000000000
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 
+987600000121000000000000
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 
+987600000121000000000000
+EPC Value : before   MetaData Value: 0
+EPC Value : before   MetaData Value: 0
+EPC Value : ok   MetaData Value: 
+987600000121000000000000
